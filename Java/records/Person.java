@@ -1,4 +1,4 @@
-package interfaceExample;
+package records;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.RecordComponent;
