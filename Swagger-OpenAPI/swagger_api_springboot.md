@@ -9,7 +9,7 @@ This project uses **Springdoc OpenAPI 2.x** to generate interactive Swagger UI f
 ### 🚀 One-Step Swagger Setup Guide
 
 1. **Add Dependency**  
-   Add this to your `pom.xml`:
+   Add this to your `pom.xml`, use the version compatibile with your springboot version:
 
    ```xml
    <dependency>
